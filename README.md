@@ -5,6 +5,4 @@ Onsheets.io helps you save time while building MVP and side projects by building
 * **HappyPeers** - HappyPeers is an innovative employee feedback system to promore a healthy workspace by address internal issues which otherwise snow balls in to unspoken internal conflicts. You can visit the project in action at https://happypeers.work.
 You can check out the repo at https://github.com/judeosbert/happypeers
 
-* **Greetings App** - Greetings app is an Android app built on top of HappyPeers which is doing $600 MRR using ads. There was **zero backend development time** that has gone into the app.
-
-*
+* **Greetings App** - Greetings app is an Android app built on top of HappyPeers which is doing $600 MRR using ads. There was **zero backend development time** that has gone into the app. Download the app at https://play.google.com/store/apps/details?id=com.kleptomaniac.labs.greetings.app
